@@ -1,0 +1,39 @@
+@-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
+@-moz-keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
+
+.fade-in{opacity:0;-webkit-animation:fadeIn ease-in 1;-moz-animation:fadeIn ease-in 1;animation:fadeIn ease-in 1;-webkit-animation-fill-mode:forwards;-moz-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-duration:1s;-moz-animation-duration:1s;animation-duration:1s}
+
+.fade-in.one{-webkit-animation-delay:.1s;-moz-animation-delay:.1s;animation-delay:.1s}
+
+.fade-in.two{-webkit-animation-delay:1.5s;-moz-animation-delay:1.5s;animation-delay:1.5s}
+
+.fade-in.three{-webkit-animation-delay:3s;-moz-animation-delay:3s;animation-delay:3s}
+
+.fade-in.four{-webkit-animation-delay:4.5s;-moz-animation-delay:4.5s;animation-delay:4.5s}
+
+.fade-in.five{-webkit-animation-delay:6s;-moz-animation-delay:6s;animation-delay:6s}
+
+.fade-in.six{-webkit-animation-delay:7.5s;-moz-animation-delay:7.5s;animation-delay:7.5s}
+
+.fade-in.seven{-webkit-animation-delay:9s;-moz-animation-delay:9s;animation-delay:9s;color:red;}
+
+.fade-in.eight{-webkit-animation-delay:10.5s;-moz-animation-delay:10.5s;animation-delay:10.5s;color: red;}
+
+.fade-in.nine{-webkit-animation-delay:12.5s;-moz-animation-delay:12.5s;animation-delay:12.5s}
+
+.fade-in.ten{-webkit-animation-delay:15s;-moz-animation-delay:15s;animation-delay:15s;text-align:
+center;}
+
+.fade-in.eleven{-webkit-animation-delay:17s;-moz-animation-delay:17s;animation-delay:17s}
+
+.fade-in.f12{-webkit-animation-delay:20s;-moz-animation-delay:20s;animation-delay:20s}
+
+.fade-in.f13{-webkit-animation-delay:22s;-moz-animation-delay:22s;animation-delay:22s}
+
+.fade-in.f14{-webkit-animation-delay:24s;-moz-animation-delay:24s;animation-delay:24s}
+
+.fade-in.f15{-webkit-animation-delay:26s;-moz-animation-delay:26s;animation-delay:26s}
